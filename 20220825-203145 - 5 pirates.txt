@@ -1,0 +1,9 @@
+Nombre de pirates sur l'ile : 5
+Nombre de noix de coco donnée au singe à chaque round : 1
+Range maximum recherché : 10^10
+_______________________________________________________________________
+______________________________________________________________________
+
+Plus petite solution : 3121 noix de coco.
+Plus grande solution : 9999987496 noix de coco.
+Nombre de solutions : 640000 solutions.

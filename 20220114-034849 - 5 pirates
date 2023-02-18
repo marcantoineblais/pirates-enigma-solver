@@ -1,0 +1,36 @@
+Nombre de pirates sur l'ile : 5
+Nombre de noix de coco donnée au singe à chaque round : 2
+Range maximum recherché : 10^5
+
+
+Solution #1 sur 7:
+Nombre total de noix de coco : 6242 noix de coco.
+Nombre de noix de coco par pirate à la fin = 408 noix de coco.
+
+Solution #2 sur 7:
+Nombre total de noix de coco : 21867 noix de coco.
+Nombre de noix de coco par pirate à la fin = 1432 noix de coco.
+
+Solution #3 sur 7:
+Nombre total de noix de coco : 37492 noix de coco.
+Nombre de noix de coco par pirate à la fin = 2456 noix de coco.
+
+Solution #4 sur 7:
+Nombre total de noix de coco : 53117 noix de coco.
+Nombre de noix de coco par pirate à la fin = 3480 noix de coco.
+
+Solution #5 sur 7:
+Nombre total de noix de coco : 68742 noix de coco.
+Nombre de noix de coco par pirate à la fin = 4504 noix de coco.
+
+Solution #6 sur 7:
+Nombre total de noix de coco : 84367 noix de coco.
+Nombre de noix de coco par pirate à la fin = 5528 noix de coco.
+
+Solution #7 sur 7:
+Nombre total de noix de coco : 99992 noix de coco.
+Nombre de noix de coco par pirate à la fin = 6552 noix de coco.
+
+Plus petite solution : 6242 noix de coco.
+Plus grande solution : 99992 noix de coco.
+Nombre de solutions : 7 solutions.
