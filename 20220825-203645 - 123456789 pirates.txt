@@ -1,4 +1,0 @@
-Nombre de pirates sur l'ile : 123456789
-Nombre de noix de coco donnée au singe à chaque round : 6969
-Range maximum recherché : 10^10
-_______________________________________________________________________
